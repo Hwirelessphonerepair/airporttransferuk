@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://hwireless-phone-repair-houston.vercel.app/sitemap.xml
+Sitemap: https://hwirelessphonerepair.github.io/airporttransferuk/sitemap.xml
